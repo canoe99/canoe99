@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://canoe99.github.io/sitemap.xml
